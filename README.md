@@ -23,7 +23,7 @@ Ensure you have Python (>=3.8) installed on your system.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Nidhish-Balasubramanya/Resume-Analyzer-Smart-ATS.git
 cd smart-ats-resume-analyzer
 ```
 
