@@ -56,6 +56,9 @@ streamlit run app.py
 4. Click the "Analyze Resume" button
 5. View the match score, missing keywords, and profile summary
 
+## Screenshot
+![App Screenshot](screenshot.png)
+
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements!
 
